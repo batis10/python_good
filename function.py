@@ -10,4 +10,3 @@ def add(a: int, b: int):
 
 add(2,3)
 
-def calculate_area
